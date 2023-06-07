@@ -44,7 +44,7 @@ namespace iBOS.Controllers
 
 
         //[For API01]
-        [HttpPost("update/{id}")]
+        [HttpPut("update/{id}")]
         public IActionResult UpdateEmployeeCode(int id, string employeeCode)
         {
             var data = DBContext.tblEmployees.Find(id);
