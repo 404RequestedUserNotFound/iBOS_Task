@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdqFInu/je1vxeEz0SdY4iPTFjrMuN87IU6eXATzJ5ORlvuF5tYfnlzpF+Z8K82I8ZchIqAlWz4tcEKzFsMx6g==",
+  "dgSpecHash": "g6lbRZ+Dw1ZTE59A5xYXV3dmq1XAd2kyx74flnq99h3meEeVY1m1LwpM7FgFjTS7PMmN7tqn6Wv1C+bXotUz/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\Downloads\\#Git Bash\\iBOS\\iBOS\\iBOS.csproj",
+  "projectFilePath": "C:\\Users\\ahmed\\Downloads\\Programs\\.NETCore-iBOS\\iBOS\\iBOS\\iBOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

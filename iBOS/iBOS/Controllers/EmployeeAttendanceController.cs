@@ -25,7 +25,7 @@ namespace iBOS.Controllers
             return Ok("Employee attendance added successfully.");
         }
 
-
+        //To get all information
         [HttpGet("all")]
         public IActionResult GetAllEmployeeAttendance()
         {
